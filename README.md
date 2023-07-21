@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a computer science student in Carnegie Mellon's School of Computer Science. I am currently working in CMU's robotics exploration lab on the PocketQube satellite, building flight software, drivers, and databases for that project. 
+
+I am most interested in CS theory and math, but I also do well with implementation. 
